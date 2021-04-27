@@ -1,0 +1,34 @@
+
+s	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ƒôğ
+I
+java:S1121M".Extract the assignment out of this expression.( Ùß‹şÿÿÿÿ
+I
+java:S1121N".Extract the assignment out of this expression.(áËşûÿÿÿÿ
+I
+java:S1121O".Extract the assignment out of this expression.(¿ãÆıÿÿÿÿÿ
+I
+java:S1121P".Extract the assignment out of this expression.( İ™Òıÿÿÿÿ
+C
+java:S1121Q".Extract the assignment out of this expression.(…ÉÚ@
+D
+java:S1121R".Extract the assignment out of this expression.(´¸ˆì
+D
+java:S1121S".Extract the assignment out of this expression.(ê›¦´
+D
+java:S1121T".Extract the assignment out of this expression.(ÙÜô”
+P
+java:S1121U".Extract the assignment out of this expression.(­Ù€Õúÿÿÿÿ8ô’/
+E
+java:S6212"/Declare this local variable with "var" instead.(®êÒÖ
+J
+java:S6212"/Declare this local variable with "var" instead.(ù ƒ‘üÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(âş˜Âÿÿÿÿÿ
+J
+java:S62127"/Declare this local variable with "var" instead.(šŸ«íøÿÿÿÿ
+9
+java:S21197"Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+J
+java:S6212E"/Declare this local variable with "var" instead.(Ğ®É­üÿÿÿÿ
+<	java:S131L""Add a default case to this switch.(à¶Âıÿÿÿÿ
