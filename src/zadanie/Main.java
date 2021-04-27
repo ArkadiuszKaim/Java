@@ -1,8 +1,11 @@
-package lekcja8;
+package zadanie;
 
 public class Main {
     public static void main(String[] args) {
         System.out.println("XD");
+        System.out.println("XD");
+        System.out.println("XD");
+
         System.out.println("XD");
         System.out.println("XD");
     }
